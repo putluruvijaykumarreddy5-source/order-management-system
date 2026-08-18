@@ -29,9 +29,28 @@ The project is built using Java, Jakarta Servlets, JSP, JSTL, Maven, and Postgre
 - CRUD operations
 - Servlet-based web application
 
+## Requirements
+
+- JDK 17
+- Apache Tomcat 10.1
+- PostgreSQL
+- Maven
+- Eclipse IDE
+
+## How to Run
+
+1. Clone the repository.
+2. Import the project into Eclipse as an Existing Maven Project.
+3. Configure PostgreSQL.
+4. Create the required database and tables.
+5. Update database connection details.
+6. Configure Apache Tomcat 10.1.
+7. Deploy the application to Tomcat.
+8. Start the server and open the application in a browser.
+
 ## Database
 
-The application uses PostgreSQL as the database.
+The application uses PostgreSQL.
 
 Main tables:
 
